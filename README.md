@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, Azure, .Net Development and all tech in general
 - 🌱 I’m currently learning all things Azure
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me - pbrodzonline@gmail.com
+- 📫 How to reach me - paulbrodzinski@outlook.com
 
 <!---
 pbrodz/pbrodz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
